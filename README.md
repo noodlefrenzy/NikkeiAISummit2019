@@ -28,3 +28,9 @@ This repository contains the deck and supporting content for [my talk](https://a
 ## Other
 
 - [My Team’s Code Stories](https://www.microsoft.com/developerblog/)
+
+# LICENSE
+
+Mixed.
+
+Note that some of the content in my presentation is under the Creative Commons license, while others has been included and cited appropriately. If you are the creator and you believe I've used any content without permisison _please_ contact me and I'll remove it immediately. If you would like to use the content of the talk, _please_ talk to me first. I'll be happy to let you, just like to know who is using it and why.
